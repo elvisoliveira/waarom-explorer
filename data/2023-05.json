@@ -1,0 +1,165 @@
+{
+    "congregation": "Congregation XYZ",
+    "time": "19:15",
+    "meetings": [{
+            "date": "9 May",
+            "theme": "2 CRÔNICAS 20-21",
+            "chairman": "Will Smith",
+            "opening_song": 118,
+            "middle_song": 119,
+            "closing_song": "Congresso de 2023",
+            "closing_prayer": "Brad Pitt",
+            "spiritual_gems": "Dwayne Johnson",
+            "opening_talk": {
+                "speaker": "Christian Bale",
+                "theme": "Tenham fé em Jeová, seu Deus"
+            },
+            "bible_reading": {
+                "reader": "Kate Winslet",
+                "assignment": "2 Crô. 20:20-30"
+            },
+            "initial_call": {
+                "label": "Vídeo da revisita"
+            },
+            "return_visit": {
+                "student": "Meryl Streep",
+                "assistant": "Sandra Bullock"
+            },
+            "bible_study": {
+                "student": "Jennifer Aniston",
+                "assistant": "Emma Watson"
+            },
+            "congregation_bible_study": {
+                "conductor": "Tom Hanks",
+                "reader": "Tom Cruise"
+            },
+            "living_as_christians": [{
+                    "time": 15,
+                    "speaker": "Matt Damon",
+                    "theme": "Você está preparado para uma crise econômica?"
+                }
+            ]
+        }, {
+            "date": "16 May",
+            "theme": "2 CRÔNICAS 22-24",
+            "chairman": "Christian Bale",
+            "opening_song": 73,
+            "middle_song": 55,
+            "closing_song": 37,
+            "closing_prayer": "Tom Cruise",
+            "spiritual_gems": "Denzel Washington",
+            "opening_talk": {
+                "speaker": "Matt Damon",
+                "theme": "Jeová recompensa atos de coragem"
+            },
+            "bible_reading": {
+                "reader": "George Clooney",
+                "assignment": "2 Crô. 22:1-12"
+            },
+            "initial_call": {
+                "student": "Keira Knightley",
+                "assistant": "Anne Hathaway"
+            },
+            "return_visit": {
+                "student": "Scarlett Johansson",
+                "assistant": "Nicole Kidman"
+            },
+            "talk": {
+                "student": "Brad Pitt",
+                "theme": "O espírito de Jeová vai ajudar você a ter coragem."
+            },
+            "congregation_bible_study": {
+                "conductor": "Will Smith",
+                "reader": "Robert Downey Jr."
+            },
+            "living_as_christians": [{
+                    "time": 15,
+                    "speaker": "Christian Bale",
+                    "theme": "Boletim do Corpo Governante (2023) — n.º 3"
+                }
+            ]
+        }, {
+            "date": "23 May",
+            "theme": "2 CRÔNICAS 25-27",
+            "chairman": "Matt Damon",
+            "opening_song": 80,
+            "middle_song": 136,
+            "closing_song": 51,
+            "closing_prayer": "Robert Downey Jr.",
+            "spiritual_gems": "Dwayne Johnson",
+            "opening_talk": {
+                "speaker": "Denzel Washington",
+                "theme": "Jeová pode lhe dar muito mais do que isso"
+            },
+            "bible_reading": {
+                "reader": "Harrison Ford",
+                "assignment": "2 Crô. 25:1-13"
+            },
+            "initial_call": {
+                "student": "Penélope Cruz",
+                "assistant": "Viola Davis"
+            },
+            "return_visit": {
+                "student": "Cate Blanchett",
+                "assistant": "Jennifer Lawrence"
+            },
+            "bible_study": {
+                "student": "Julianne Moore",
+                "assistant": "Emma Stone"
+            },
+            "congregation_bible_study": {
+                "conductor": "Tom Hanks",
+                "reader": "Johnny Depp"
+            },
+            "living_as_christians": [{
+                    "time": 15,
+                    "speaker": "Will Smith",
+                    "theme": "Faça Qualquer Sacrifício pela Vida Eterna (Mar. 10:29, 30)"
+                }
+            ]
+        }, {
+            "date": "30 May",
+            "theme": "2 CRÔNICAS 28-29",
+            "chairman": "Tom Hanks",
+            "opening_song": 54,
+            "middle_song": 56,
+            "closing_song": 86,
+            "closing_prayer": "Leonardo DiCaprio",
+            "spiritual_gems": "Matt Damon",
+            "opening_talk": {
+                "speaker": "Dwayne Johnson",
+                "theme": "Você pode servir a Jeová mesmo sem o exemplo de seus pais”"
+            },
+            "bible_reading": {
+                "reader": "Chris Hemsworth",
+                "assignment": "2 Crô. 28:1-11"
+            },
+            "initial_call": {
+                "student": "Amy Adams",
+                "assistant": "Jessica Alba"
+            },
+            "return_visit": {
+                "student": "Reese Witherspoon",
+                "assistant": "Halle Berry"
+            },
+            "bible_study": {
+                "student": "Saoirse Ronan",
+                "assistant": "Julia Roberts"
+            },
+            "congregation_bible_study": {
+                "conductor": "Christian Bale",
+                "reader": "Brad Pitt"
+            },
+            "living_as_christians": [{
+                    "time": 8,
+                    "speaker": "Leonardo DiCaprio",
+                    "theme": "“Jeová é o ‘pai dos órfãos’”"
+                }, {
+                    "time": 7,
+                    "speaker": "Will Smith",
+                    "theme": "Necessidades locais"
+                }
+            ]
+        }
+    ]
+}

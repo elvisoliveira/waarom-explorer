@@ -1,0 +1,46 @@
+{
+    "CH": {
+        "label": "Chairman",
+        "color": "Pink"
+    },
+    "SG": {
+        "label": "Spiritual Gems",
+        "color": "Violet"
+    },
+    "CP": {
+        "label": "Closing Prayer",
+        "color": "Salmon"
+    },
+    "OT": {
+        "label": "Opening Talk",
+        "color": "Aquamarine"
+    },
+    "BR": {
+        "label": "Bible Reading",
+        "color": "Tomato"
+    },
+    "CBS": {
+        "label": "Congregation Bible Study",
+        "color": "Orange"
+    },
+    "CBSR": {
+        "label": "Congregation Bible Study Reader",
+        "color": "Gold"
+    },
+    "SA": {
+        "label": "Student Assignment",
+        "color": "SkyBlue"
+    },
+    "AA": {
+        "label": "Assistant Assignment",
+        "color": "LightGreen"
+    },
+    "TK": {
+        "label": "Talk",
+        "color": "CadetBlue"
+    },
+    "LAC": {
+        "label": "Living as Christians",
+        "color": "RosyBrown"
+    }
+}

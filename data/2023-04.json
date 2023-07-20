@@ -1,0 +1,129 @@
+{
+    "congregation": "Congregation XYZ",
+    "time": "19:15",
+    "meetings": [{
+            "date": "11 April",
+            "theme": "2 CRÔNICAS 8-9",
+            "chairman": "Christian Bale",
+            "opening_song": 88,
+            "middle_song": 98,
+            "closing_song": 79,
+            "closing_prayer": "Morgan Freeman",
+            "spiritual_gems": "Leonardo DiCaprio",
+            "opening_talk": {
+                "speaker": "Dwayne Johnson",
+                "theme": "Ela dava valor à sabedoria"
+            },
+            "bible_reading": {
+                "reader": "Hugh Jackman",
+                "assignment": "2 Crônicas 8:1-16"
+            },
+            "initial_call": {
+                "label": "Vídeo da primeira conversa"
+            },
+            "return_visit": {
+                "student": "Amy Adams",
+                "assistant": "Helen Mirren",
+                "label": "Primeira conversa"
+            },
+            "bible_study": {
+                "student": "Julianne Moore",
+                "assistant": "Jessica Alba"
+            },
+            "service_talk": {
+                "speaker": "Morgan Freeman",
+                "theme": "Discurso de serviço: Permaneçam “bem estabelecidos na verdade”!"
+            },
+            "living_as_christians": [{
+                    "time": 15,
+                    "speaker": "Christian Bale",
+                    "theme": "Boletim do Corpo Governante (2023) — n.º 2"
+                }
+            ]
+        }, {
+            "date": "18 April",
+            "theme": "2 CRÔNICAS 10-12",
+            "chairman": "Matt Damon",
+            "opening_song": 103,
+            "middle_song": 79,
+            "closing_song": 121,
+            "closing_prayer": "Tom Cruise",
+            "spiritual_gems": "Dwayne Johnson",
+            "opening_talk": {
+                "speaker": "Denzel Washington",
+                "theme": "Conselhos sábios podem ajudar você"
+            },
+            "bible_reading": {
+                "reader": "Robert Downey Jr.",
+                "assignment": "2 Crônicas 10:1-15"
+            },
+            "initial_call": {
+                "student": "Julia Roberts",
+                "assistant": "Halle Berry"
+            },
+            "return_visit": {
+                "student": "Anne Hathaway",
+                "assistant": "Saoirse Ronan"
+            },
+            "talk": {
+                "student": "Tom Cruise",
+                "theme": "Treine seu estudante da Bíblia quando ele pedir um conselho"
+            },
+            "congregation_bible_study": {
+                "conductor": "Will Smith",
+                "reader": "Johnny Depp"
+            },
+            "living_as_christians": [{
+                    "time": 5,
+                    "speaker": "Tom Hanks",
+                    "theme": "Como usar os vídeos que falam sobre o estudo da Bíblia?"
+                }, {
+                    "time": 10,
+                    "speaker": "Matt Damon",
+                    "theme": "Necessidades locais"
+                }
+            ]
+        }, {
+            "date": "25 April",
+            "theme": "2 CRÔNICAS 13-16",
+            "chairman": "Tom Hanks",
+            "opening_song": 3,
+            "middle_song": 94,
+            "closing_song": 39,
+            "closing_prayer": "Robert Downey Jr.",
+            "spiritual_gems": "Christian Bale",
+            "opening_talk": {
+                "speaker": "Will Smith",
+                "theme": "Quando devemos confiar em Jeová?"
+            },
+            "bible_reading": {
+                "reader": "Chris Hemsworth",
+                "assignment": "2 Crônicas 14:1-15"
+            },
+            "initial_call": {
+                "student": "Viola Davis",
+                "assistant": "Emma Stone"
+            },
+            "return_visit": {
+                "student": "Charlize Theron",
+                "assistant": "Cate Blanchett"
+            },
+            "bible_study": {
+                "student": "Michelle Pfeiffer",
+                "assistant": "Meryl Streep"
+            },
+            "congregation_bible_study": {
+                "conductor": "Matt Damon",
+                "reader": "Brad Pitt"
+            },
+            "living_as_christians": [{
+                    "time": 15,
+                    "speaker": "Tom Hanks",
+                    "theme": "Decisões que mostram confiança em Jeová"
+                }
+            ]
+        }, {
+            "message": "Não há reunião por causa da <p>Assembleia de Circuito</p> Amigos da Paz"
+        }
+    ]
+}

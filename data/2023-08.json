@@ -1,0 +1,182 @@
+{
+    "congregation": "Congregation XYZ",
+    "time": "19:15",
+    "meetings": [{
+            "message": "Não há reunião devido ao <p>Congresso regional de 2023</p> Seja Paciente"
+        }, {
+            "date": "8 August",
+            "theme": "NEEMIAS 5-7",
+            "chairman": "Tom Hanks",
+            "spiritual_gems": "Dwayne Johnson",
+            "opening_song": 17,
+            "opening_talk": {
+                "speaker": "Christian Bale",
+                "theme": "“Neemias queria servir, e não ser servido”"
+            },
+            "bible_reading": {
+                "reader": "Hugh Jackman",
+                "assignment": "Nee. 5:1-13"
+            },
+            "initial_call": {
+                "label": "Primeira conversa",
+                "student": "Keira Knightley",
+                "assistant": "Jessica Alba"
+            },
+            "return_visit": {
+                "label": "Revisita",
+                "student": "Amy Adams",
+                "assistant": "Meryl Streep"
+            },
+            "middle_song": 90,
+            "living_as_christians": [{
+                    "theme": "Boletim do Corpo Governante (2023) - n.º 5",
+                    "time": 15,
+                    "speaker": "Tom Hanks"
+                }
+            ],
+            "congregation_bible_study": {
+                "conductor": "Matt Damon",
+                "reader": "Denzel Washington"
+            },
+            "closing_song": 35,
+            "closing_prayer": "Tom Cruise",
+            "talk": {
+                "theme": "Evangelizadores bem-sucedidos ajudam uns aos outros.",
+                "student": "Brad Pitt"
+            }
+        }, {
+            "date": "15 August",
+            "theme": "NEEMIAS 8-9",
+            "chairman": "Christian Bale",
+            "spiritual_gems": "Tom Hanks",
+            "opening_song": 110,
+            "opening_talk": {
+                "speaker": "Denzel Washington",
+                "theme": "“A alegria que vem de Jeová é a fortaleza de vocês”"
+            },
+            "bible_reading": {
+                "reader": "George Clooney",
+                "assignment": "Nee. 8:1-12"
+            },
+            "initial_call": {
+                "label": "Primeira conversa",
+                "student": "Michelle Pfeiffer",
+                "assistant": "Halle Berry"
+            },
+            "return_visit": {
+                "label": "Revisita",
+                "student": "Saoirse Ronan",
+                "assistant": "Emma Stone"
+            },
+            "middle_song": 132,
+            "living_as_christians": [{
+                    "theme": "“Você pode ajudar sua família a ter mais alegria”",
+                    "time": 15,
+                    "speaker": "Christian Bale"
+                }
+            ],
+            "congregation_bible_study": {
+                "conductor": "Will Smith",
+                "reader": "Dwayne Johnson"
+            },
+            "closing_song": 123,
+            "closing_prayer": "Denzel Washington",
+            "bible_study": {
+                "label": "Estudo bíblico",
+                "student": "Julianne Moore",
+                "assistant": "Penélope Cruz"
+            }
+        }, {
+            "date": "22 August",
+            "theme": "NEEMIAS 10-11",
+            "chairman": "Will Smith",
+            "spiritual_gems": "Denzel Washington",
+            "opening_song": 37,
+            "opening_talk": {
+                "speaker": "Matt Damon",
+                "theme": "“Eles fizeram sacrifícios para servir a Jeová”"
+            },
+            "bible_reading": {
+                "reader": "Harrison Ford",
+                "assignment": "Nee. 10:28-39"
+            },
+            "initial_call": {
+                "label": "Primeira conversa",
+                "student": "Emma Watson",
+                "assistant": "Jennifer Aniston"
+            },
+            "return_visit": {
+                "label": "Revisita",
+                "student": "Jessica Chastain",
+                "assistant": "Scarlett Johansson"
+            },
+            "middle_song": 81,
+            "living_as_christians": [{
+                    "theme": "“Quais são os seus alvos para o novo ano de serviço?”",
+                    "time": 10,
+                    "speaker": "Will Smith"
+                }, {
+                    "theme": "“Campanha especial em setembro para divulgar o Reino de Deus!”",
+                    "time": 5,
+                    "speaker": "Tom Hanks"
+                }
+            ],
+            "congregation_bible_study": {
+                "conductor": "Christian Bale",
+                "reader": "Tom Cruise"
+            },
+            "closing_song": 92,
+            "closing_prayer": "Johnny Depp",
+            "talk": {
+                "theme": "Sacrifícios que agradam a Deus nos nossos dias.",
+                "student": "Johnny Depp"
+            }
+        },
+        {
+            "date": "29 August",
+            "theme": "NEEMIAS 12-13",
+            "chairman": "Matt Damon",
+            "spiritual_gems": "Will Smith",
+            "opening_song": 34,
+            "opening_talk": {
+                "speaker": "Dwayne Johnson",
+                "theme": "“Seja leal a Jeová ao escolher seus amigos”"
+            },
+            "bible_reading": {
+                "reader": "Chris Hemsworth",
+                "assignment": "Nee. 12:27-39"
+            },
+            "initial_call": {
+                "label": "Primeira conversa",
+                "student": "Anne Hathaway",
+                "assistant": "Julia Roberts"
+            },
+            "return_visit": {
+                "label": "Revisita",
+                "student": "Jennifer Lawrence",
+                "assistant": "Nicole Kidman"
+            },
+            "middle_song": 108,
+            "living_as_christians": [{
+                    "theme": "Necessidades locais",
+                    "time": 5,
+                    "speaker": "Matt Damon"
+                }, {
+                    "theme": "“Imite o amor leal de Jeová”",
+                    "time": 10,
+                    "speaker": "Denzel Washington"
+                }
+            ],
+            "congregation_bible_study": {
+                "conductor": "Tom Hanks"
+            },
+            "closing_song": 84,
+            "closing_prayer": "Brad Pitt",
+            "bible_study": {
+                "label": "Estudo bíblico",
+                "student": "Reese Witherspoon",
+                "assistant": "Viola Davis"
+            }
+        }
+    ]
+}

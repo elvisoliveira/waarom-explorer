@@ -1,0 +1,44 @@
+body {
+    font-size: 12px;
+}
+th, td {
+    white-space: nowrap;
+}
+tbody th, thead th {
+    position: sticky;
+}
+tbody th {
+    left: 0;
+    box-shadow: 0px 10px 15px -3px rgba(0,0,0,0.1) !important;
+}
+tbody td {
+    text-align: center;
+}
+thead th {
+    top: 0;
+    text-align: center;
+}
+thead th:first-child {
+    top: 0;
+    left: 0;
+    z-index: 30;
+    background-color: black;
+}
+div#waarom-assigner {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+}
+body > button {
+    position: absolute;
+    right: 10px;
+    z-index: 30;
+    bottom: 10px;
+}
+span.badge {
+    color: #000;
+}
+th i {
+    margin-right: 5px;
+}

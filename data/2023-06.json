@@ -1,0 +1,129 @@
+{
+    "congregation": "Congregation XYZ",
+    "time": "19:15",
+    "meetings": [{
+            "date": "6 June",
+            "theme": "2 CRÔNICAS 30-31",
+            "chairman": "Will Smith",
+            "opening_song": 87,
+            "middle_song": 74,
+            "closing_song": 115,
+            "closing_prayer": "Brad Pitt",
+            "spiritual_gems": "Christian Bale",
+            "opening_talk": {
+                "speaker": "Tom Hanks",
+                "theme": "“É bom estarmos com nossos irmãos”"
+            },
+            "bible_reading": {
+                "reader": "Hugh Jackman",
+                "assignment": "2 Crô. 31:11-21"
+            },
+            "initial_call": {
+                "student": "Meryl Streep",
+                "assistant": "Saoirse Ronan"
+            },
+            "return_visit": {
+                "student": "Jennifer Lawrence",
+                "assistant": "Scarlett Johansson"
+            },
+            "talk": {
+                "student": "Johnny Depp",
+                "theme": "Louve a Jeová com seus comentários nas reuniões"
+            },
+            "congregation_bible_study": {
+                "conductor": "Matt Damon"
+            },
+            "living_as_christians": [{
+                    "time": 5,
+                    "speaker": "Leonardo DiCaprio",
+                    "theme": "Torne-se Amigo de Jeová — Prepare Seu Comentário"
+                }, {
+                    "time": 10,
+                    "speaker": "Will Smith",
+                    "theme": "Realizações da organização"
+                }
+            ]
+        }, {
+            "date": "13 June",
+            "theme": "2 CRÔNICAS 32-33",
+            "chairman": "Christian Bale",
+            "opening_song": 103,
+            "middle_song": 36,
+            "closing_song": 90,
+            "closing_prayer": "Robert Downey Jr.",
+            "spiritual_gems": "Dwayne Johnson",
+            "opening_talk": {
+                "speaker": "Denzel Washington",
+                "theme": "“Fortaleça seus irmãos em tempos difíceis”"
+            },
+            "bible_reading": {
+                "reader": "Al Pacino",
+                "assignment": "2 Crô. 32:1-15"
+            },
+            "initial_call": {
+                "student": "Jessica Chastain",
+                "assistant": "Helen Mirren"
+            },
+            "return_visit": {
+                "student": "Reese Witherspoon",
+                "assistant": "Keira Knightley"
+            },
+            "bible_study": {
+                "student": "Jennifer Aniston",
+                "assistant": "Charlize Theron"
+            },
+            "congregation_bible_study": {
+                "conductor": "Will Smith",
+                "reader": "Robert Downey Jr."
+            },
+            "living_as_christians": [{
+                    "time": 10,
+                    "speaker": "Christian Bale",
+                    "theme": "Boletim do Corpo Governante (2023) — n.º 4"
+                }, {
+                    "time": 5,
+                    "speaker": "Christian Bale",
+                    "theme": "Necessidades locais"
+                }
+            ]
+        }, {
+            "date": "20 June",
+            "theme": "2 CRÔNICAS 34-36",
+            "chairman": "Matt Damon",
+            "opening_song": 97,
+            "middle_song": 96,
+            "closing_song": 117,
+            "closing_prayer": "Tom Cruise",
+            "spiritual_gems": "Leonardo DiCaprio",
+            "opening_talk": {
+                "speaker": "Will Smith",
+                "theme": "“Você está aplicando tudo que aprende da Palavra de Deus?”"
+            },
+            "bible_reading": {
+                "reader": "George Clooney",
+                "assignment": "2 Crô. 35:1-14"
+            },
+            "initial_call": {
+                "student": "Halle Berry",
+                "assistant": "Amy Adams"
+            },
+            "return_visit": {
+                "student": "Michelle Pfeiffer",
+                "assistant": "Emma Watson"
+            },
+            "talk": {
+                "student": "Tom Cruise",
+                "theme": "Use o poder da Palavra de Deus na pregação"
+            },
+            "congregation_bible_study": {
+                "conductor": "Tom Hanks"
+            },
+            "living_as_christians": [{
+                    "time": 15,
+                    "speaker": "Matt Damon",
+                    "theme": "“Você está usando bem a Bíblia em áudio?”"
+                }
+            ]
+        }
+    ]
+}
