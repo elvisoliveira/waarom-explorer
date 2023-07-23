@@ -5,7 +5,7 @@ $assigneds = [];
 function add($name, $date, $assignment, $class = null, $helper = null) {
     global $assigneds;
     if(empty($name)) return;
-    $entry = implode(';', array_filter([$assignment, $class, $helper], function($v) { return $v !== null; }));
+    $entry = implode(';', null_filter([$assignment, $class, $helper]));
     if(array_key_exists($name, $assigneds)) {
         if(array_key_exists($date, $assigneds[$name])) {
             if(!in_array($assignment, $assigneds[$name][$date], true)) {
@@ -17,6 +17,12 @@ function add($name, $date, $assignment, $class = null, $helper = null) {
     } else {
         $assigneds[$name] = [$date => [$entry]];
     }
+}
+
+function null_filter($array) {
+    return array_filter($array, function($v) {
+        return $v !== null;
+    });
 }
 
 $dates = [];
@@ -118,15 +124,15 @@ foreach(glob('./data/*.{json}', GLOB_BRACE) as $file) {
             <?php foreach($assigneds as $name => $assignments): ?>
             <tr>
                 <th scope="row"><i class="fa fa-minus-square" aria-hidden="true"></i><?php print $name; ?></th>
-                <?php foreach($dates as $id => $row): ?>
+                <?php foreach($dates as $id => $column): ?>
                 <td>
                 <?php if(array_key_exists($id, $assignments)): foreach($assignments[$id] as $data): ?>
-                    <?php $segments = explode(';', $data); ?>
-                    <?php $badge = $segments[0]; ?>
-                    <?php $class = $segments[1] ?? null; ?>
-                    <?php $helper = $segments[2] ?? null; ?>
-                    <?php $tooltip = implode('<br />', array_filter([$info[$badge]['label'], $class, $helper], function($v) { return $v !== null; })); ?>
-                    <span data-bs-toggle="tooltip" data-bs-html="true" title="<?php print $tooltip; ?>" class="badge <?php print strtolower($badge); ?>"><?php print $badge; ?></span>
+                    <?php @list($badge, $class, $helper) = explode(';', $data); ?>
+                    <span <?php print $helper ? "helper=\"{$helper}\"" : null; ?>
+                        data-bs-toggle="tooltip"
+                        data-bs-html="true"
+                        title="<?php print implode('<br />', null_filter([$info[$badge]['label'], $class, $helper])); ?>"
+                        class="badge <?php print strtolower($badge); ?>"><?php print $badge; ?></span>
                 <?php endforeach; endif; ?>
                 </td>
                 <?php endforeach; ?>
@@ -142,4 +148,3 @@ foreach(glob('./data/*.{json}', GLOB_BRACE) as $file) {
     <?php endforeach; ?>
 </body>
 </html>
-

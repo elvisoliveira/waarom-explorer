@@ -22,3 +22,19 @@ document.querySelectorAll('tbody tr').forEach((row) => {
         row.style.display = 'none';
     });
 });
+
+document.querySelectorAll('span[helper]').forEach((data) => {
+    data.addEventListener("mouseover", function() {
+        const helper = data.getAttribute('helper');
+        document.querySelectorAll('tbody th').forEach((row) => {
+            if(row.innerText == helper) {
+                const index = Array.from(data.closest('tr').childNodes).indexOf(data.parentNode);
+                const cols = Array.from(row.parentNode.childNodes);
+                cols[index].id = 'red';
+            }
+        });
+        this.addEventListener("mouseout", function() {
+            document.getElementById('red').id = '';
+        });
+    });
+});
