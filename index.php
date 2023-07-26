@@ -4,11 +4,19 @@ $info = json_decode(file_get_contents('./config.json'), true);
 $assigneds = [];
 function add($name, $date, $assignment, $class = null, $helper = null) {
     global $assigneds;
-    if(empty($name)) return;
+
+    $name = get_second($name, $date);
+    $helper = get_second($helper, $date);
+
     $entry = implode(';', null_filter([$assignment, $class, $helper]));
     if(array_key_exists($name, $assigneds)) {
         if(array_key_exists($date, $assigneds[$name])) {
-            if(!in_array($assignment, $assigneds[$name][$date], true)) {
+            $entries = [];
+            foreach ($assigneds[$name][$date] as $assignments) {
+                $info = explode(';', $assignments);
+                array_push($entries, $info[0]);
+            }
+            if(!in_array($assignment, $entries, true)) {
                 array_push($assigneds[$name][$date], $entry);
             }
         } else {
@@ -19,9 +27,19 @@ function add($name, $date, $assignment, $class = null, $helper = null) {
     }
 }
 
+function get_second($string, $date) {
+    $string = explode('|', $string);
+    if(count($string) > 1) {
+        add($string[0], $date, 'R', $string[1]);
+        return $string[1];
+    } else {
+        return $string[0];
+    }
+}
+
 function null_filter($array) {
     return array_filter($array, function($v) {
-        return $v !== null;
+        return !empty($v);
     });
 }
 

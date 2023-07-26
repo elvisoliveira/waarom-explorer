@@ -19,8 +19,8 @@
                 "assignment": "Esd. 2:58-70"
             },
             "initial_call": {
-                "student": "Anne Hathaway",
-                "assistant": "Nicole Kidman"
+                "student": "Anne Hathaway|Nicole Kidman",
+                "assistant": "Nicole Kidman|Jennifer Aniston"
             },
             "return_visit": {
                 "student": "Jessica Alba",
@@ -67,7 +67,7 @@
             },
             "bible_study": {
                 "student": "Meryl Streep",
-                "assistant": "Amy Adams",
+                "assistant": "Penélope Cruz|Amy Adams",
                 "label": "Primeira conversa — designação 2"
             },
             "congregation_bible_study": {
@@ -100,8 +100,8 @@
                 "label": "Vídeo da revisita"
             },
             "return_visit": {
-                "student": "Saoirse Ronan",
-                "assistant": "Jennifer Aniston",
+                "student": "Saoirse Ronan|Jennifer Aniston",
+                "assistant": "Jennifer Aniston|Viola Davis",
                 "label": "Revisita — designação 1"
             },
             "bible_study": {
@@ -145,8 +145,8 @@
                 "assistant": "Jessica Chastain"
             },
             "bible_study": {
-                "student": "Brad Pitt",
-                "assistant": "Harrison Ford"
+                "student": "Keira Knightley|Brad Pitt",
+                "assistant": "Saoirse Ronan|Harrison Ford"
             },
             "congregation_bible_study": {
                 "conductor": "Tom Hanks"
@@ -176,7 +176,7 @@
             },
             "initial_call": {
                 "student": "Jennifer Lawrence",
-                "assistant": "Helen Mirren"
+                "assistant": "Helen Mirren|Jessica Chastain"
             },
             "return_visit": {
                 "student": "Julia Roberts",
@@ -184,10 +184,10 @@
             },
             "bible_study": {
                 "student": "Viola Davis",
-                "assistant": "Charlize Theron"
+                "assistant": "Charlize Theron|Scarlett Johansson"
             },
             "congregation_bible_study": {
-                "conductor": "Christian Bale",
+                "conductor": "Christian Bale|Matt Damon",
                 "reader": "Brad Pitt"
             },
             "living_as_christians": [{

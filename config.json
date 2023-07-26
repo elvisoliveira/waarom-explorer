@@ -1,4 +1,8 @@
 {
+    "R": {
+        "label": "Substituted by",
+        "color": "IndianRed"
+    },
     "CH": {
         "label": "Chairman",
         "color": "Pink"

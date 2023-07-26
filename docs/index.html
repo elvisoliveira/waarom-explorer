@@ -10,6 +10,10 @@
     <link href="https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css" rel="stylesheet" />
     <link href="style.css" rel="stylesheet" />
     <style type="text/css">
+        span.r {
+            background-color: IndianRed;
+        }
+
         span.ch {
             background-color: Pink;
         }
@@ -64,6 +68,7 @@
                     <h5 class="modal-title">Filters</h5> <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body">
+                    <div class="form-check"> <input class="form-check-input" type="checkbox" id="R" value="R" checked /> <label class="form-check-label" for="R">Substituted by (R)</label> </div>
                     <div class="form-check"> <input class="form-check-input" type="checkbox" id="CH" value="CH" checked /> <label class="form-check-label" for="CH">Chairman (CH)</label> </div>
                     <div class="form-check"> <input class="form-check-input" type="checkbox" id="SG" value="SG" checked /> <label class="form-check-label" for="SG">Spiritual Gems (SG)</label> </div>
                     <div class="form-check"> <input class="form-check-input" type="checkbox" id="CP" value="CP" checked /> <label class="form-check-label" for="CP">Closing Prayer (CP)</label> </div>
@@ -330,7 +335,7 @@
                     <td> <span data-bs-toggle="tooltip" data-bs-html="true" title="Congregation Bible Study" class="badge cbs">CBS</span> </td>
                     <td> </td>
                     <td> <span data-bs-toggle="tooltip" data-bs-html="true" title="Chairman" class="badge ch">CH</span> <span data-bs-toggle="tooltip" data-bs-html="true" title="Opening Talk" class="badge ot">OT</span> </td>
-                    <td> <span data-bs-toggle="tooltip" data-bs-html="true" title="Spiritual Gems" class="badge sg">SG</span> </td>
+                    <td> <span data-bs-toggle="tooltip" data-bs-html="true" title="Spiritual Gems" class="badge sg">SG</span> <span data-bs-toggle="tooltip" data-bs-html="true" title="Congregation Bible Study" class="badge cbs">CBS</span> </td>
                     <td> <span data-bs-toggle="tooltip" data-bs-html="true" title="Congregation Bible Study" class="badge cbs">CBS</span> </td>
                     <td> </td>
                     <td> <span data-bs-toggle="tooltip" data-bs-html="true" title="Opening Talk" class="badge ot">OT</span> </td>
@@ -357,7 +362,7 @@
                     <td> </td>
                     <td> </td>
                     <td> </td>
-                    <td> </td>
+                    <td> <span data-bs-toggle="tooltip" data-bs-html="true" title="Substituted by<br />Brad Pitt" class="badge r">R</span> </td>
                     <td> </td>
                     <td> <span helper="Jessica Alba" data-bs-toggle="tooltip" data-bs-html="true" title="Student Assignment<br />Initial Call<br />Jessica Alba" class="badge sa">SA</span> </td>
                     <td> </td>
@@ -383,7 +388,7 @@
                     <td> </td>
                     <td> </td>
                     <td> </td>
-                    <td> </td>
+                    <td> <span data-bs-toggle="tooltip" data-bs-html="true" title="Substituted by<br />Amy Adams" class="badge r">R</span> </td>
                     <td> </td>
                     <td> </td>
                     <td> </td>
@@ -526,7 +531,7 @@
                     <td> </td>
                     <td> <span data-bs-toggle="tooltip" data-bs-html="true" title="Chairman" class="badge ch">CH</span> <span data-bs-toggle="tooltip" data-bs-html="true" title="Living as Christians" class="badge lac">LAC</span> </td>
                     <td> <span data-bs-toggle="tooltip" data-bs-html="true" title="Spiritual Gems" class="badge sg">SG</span> </td>
-                    <td> <span data-bs-toggle="tooltip" data-bs-html="true" title="Congregation Bible Study" class="badge cbs">CBS</span> </td>
+                    <td> <span data-bs-toggle="tooltip" data-bs-html="true" title="Substituted by<br />Matt Damon" class="badge r">R</span> </td>
                     <td> <span data-bs-toggle="tooltip" data-bs-html="true" title="Opening Talk" class="badge ot">OT</span> </td>
                     <td> <span data-bs-toggle="tooltip" data-bs-html="true" title="Chairman" class="badge ch">CH</span> <span data-bs-toggle="tooltip" data-bs-html="true" title="Living as Christians" class="badge lac">LAC</span> </td>
                     <td> <span data-bs-toggle="tooltip" data-bs-html="true" title="Congregation Bible Study" class="badge cbs">CBS</span> </td>
@@ -578,7 +583,7 @@
                     <td> </td>
                     <td> </td>
                     <td> </td>
-                    <td> <span helper="Nicole Kidman" data-bs-toggle="tooltip" data-bs-html="true" title="Student Assignment<br />Initial Call<br />Nicole Kidman" class="badge sa">SA</span> </td>
+                    <td> <span data-bs-toggle="tooltip" data-bs-html="true" title="Substituted by<br />Nicole Kidman" class="badge r">R</span> </td>
                     <td> </td>
                     <td> </td>
                     <td> </td>
@@ -746,7 +751,7 @@
                     <td> </td>
                     <td> </td>
                     <td> </td>
-                    <td> <span helper="Anne Hathaway" data-bs-toggle="tooltip" data-bs-html="true" title="Assistant Assignment<br />Initial Call<br />Anne Hathaway" class="badge aa">AA</span> </td>
+                    <td> <span data-bs-toggle="tooltip" data-bs-html="true" title="Substituted by<br />Jennifer Aniston" class="badge r">R</span> <span helper="Jennifer Aniston" data-bs-toggle="tooltip" data-bs-html="true" title="Student Assignment<br />Initial Call<br />Jennifer Aniston" class="badge sa">SA</span> </td>
                     <td> </td>
                     <td> </td>
                     <td> <span helper="Reese Witherspoon" data-bs-toggle="tooltip" data-bs-html="true" title="Assistant Assignment<br />Initial Call<br />Reese Witherspoon" class="badge aa">AA</span> </td>
@@ -778,7 +783,7 @@
                     <td> </td>
                     <td> </td>
                     <td> </td>
-                    <td> <span helper="Helen Mirren" data-bs-toggle="tooltip" data-bs-html="true" title="Student Assignment<br />Initial Call<br />Helen Mirren" class="badge sa">SA</span> </td>
+                    <td> <span helper="Jessica Chastain" data-bs-toggle="tooltip" data-bs-html="true" title="Student Assignment<br />Initial Call<br />Jessica Chastain" class="badge sa">SA</span> </td>
                     <td> </td>
                     <td> </td>
                     <td> </td>
@@ -834,7 +839,7 @@
                     <td> </td>
                     <td> <span helper="Halle Berry" data-bs-toggle="tooltip" data-bs-html="true" title="Student Assignment<br />Bible Study<br />Halle Berry" class="badge sa">SA</span> </td>
                     <td> </td>
-                    <td> </td>
+                    <td> <span helper="Viola Davis" data-bs-toggle="tooltip" data-bs-html="true" title="Assistant Assignment<br />Bible Study<br />Viola Davis" class="badge aa">AA</span> </td>
                     <td> </td>
                     <td> </td>
                     <td> <span helper="Jessica Chastain" data-bs-toggle="tooltip" data-bs-html="true" title="Assistant Assignment<br />Return Visit<br />Jessica Chastain" class="badge aa">AA</span> </td>
@@ -890,7 +895,7 @@
                     <td> </td>
                     <td> </td>
                     <td> </td>
-                    <td> <span helper="Viola Davis" data-bs-toggle="tooltip" data-bs-html="true" title="Assistant Assignment<br />Bible Study<br />Viola Davis" class="badge aa">AA</span> </td>
+                    <td> <span data-bs-toggle="tooltip" data-bs-html="true" title="Substituted by<br />Scarlett Johansson" class="badge r">R</span> </td>
                     <td> </td>
                     <td> </td>
                     <td> </td>
@@ -998,9 +1003,9 @@
                     <td> </td>
                     <td> <span helper="Charlize Theron" data-bs-toggle="tooltip" data-bs-html="true" title="Student Assignment<br />Bible Study<br />Charlize Theron" class="badge sa">SA</span> </td>
                     <td> </td>
+                    <td> <span helper="Nicole Kidman" data-bs-toggle="tooltip" data-bs-html="true" title="Assistant Assignment<br />Initial Call<br />Nicole Kidman" class="badge aa">AA</span> </td>
                     <td> </td>
-                    <td> </td>
-                    <td> <span helper="Saoirse Ronan" data-bs-toggle="tooltip" data-bs-html="true" title="Assistant Assignment<br />Return Visit<br />Saoirse Ronan" class="badge aa">AA</span> </td>
+                    <td> <span data-bs-toggle="tooltip" data-bs-html="true" title="Substituted by<br />Viola Davis" class="badge r">R</span> <span helper="Viola Davis" data-bs-toggle="tooltip" data-bs-html="true" title="Student Assignment<br />Return Visit<br />Viola Davis" class="badge sa">SA</span> </td>
                     <td> </td>
                     <td> </td>
                     <td> </td>
@@ -1028,9 +1033,9 @@
                     <td> </td>
                     <td> <span helper="Jessica Alba" data-bs-toggle="tooltip" data-bs-html="true" title="Assistant Assignment<br />Return Visit<br />Jessica Alba" class="badge aa">AA</span> </td>
                     <td> </td>
+                    <td> <span helper="Jennifer Aniston" data-bs-toggle="tooltip" data-bs-html="true" title="Assistant Assignment<br />Return Visit<br />Jennifer Aniston" class="badge aa">AA</span> </td>
                     <td> </td>
-                    <td> </td>
-                    <td> <span helper="Charlize Theron" data-bs-toggle="tooltip" data-bs-html="true" title="Student Assignment<br />Bible Study<br />Charlize Theron" class="badge sa">SA</span> </td>
+                    <td> <span helper="Scarlett Johansson" data-bs-toggle="tooltip" data-bs-html="true" title="Student Assignment<br />Bible Study<br />Scarlett Johansson" class="badge sa">SA</span> </td>
                     <td> </td>
                     <td> </td>
                     <td> </td>
@@ -1142,7 +1147,7 @@
                     <td> </td>
                     <td> </td>
                     <td> </td>
-                    <td> <span helper="Jennifer Lawrence" data-bs-toggle="tooltip" data-bs-html="true" title="Assistant Assignment<br />Initial Call<br />Jennifer Lawrence" class="badge aa">AA</span> </td>
+                    <td> <span data-bs-toggle="tooltip" data-bs-html="true" title="Substituted by<br />Jessica Chastain" class="badge r">R</span> </td>
                     <td> </td>
                     <td> </td>
                     <td> </td>
@@ -1224,8 +1229,8 @@
                     <td> </td>
                     <td> </td>
                     <td> </td>
-                    <td> <span helper="Jennifer Aniston" data-bs-toggle="tooltip" data-bs-html="true" title="Student Assignment<br />Return Visit<br />Jennifer Aniston" class="badge sa">SA</span> </td>
-                    <td> </td>
+                    <td> <span data-bs-toggle="tooltip" data-bs-html="true" title="Substituted by<br />Jennifer Aniston" class="badge r">R</span> </td>
+                    <td> <span data-bs-toggle="tooltip" data-bs-html="true" title="Substituted by<br />Harrison Ford" class="badge r">R</span> </td>
                     <td> </td>
                     <td> </td>
                     <td> <span helper="Emma Stone" data-bs-toggle="tooltip" data-bs-html="true" title="Student Assignment<br />Return Visit<br />Emma Stone" class="badge sa">SA</span> </td>
@@ -1338,7 +1343,7 @@
                     <td> </td>
                     <td> </td>
                     <td> <span helper="Emma Watson" data-bs-toggle="tooltip" data-bs-html="true" title="Assistant Assignment<br />Return Visit<br />Emma Watson" class="badge aa">AA</span> </td>
-                    <td> </td>
+                    <td> <span helper="Jennifer Lawrence" data-bs-toggle="tooltip" data-bs-html="true" title="Assistant Assignment<br />Initial Call<br />Jennifer Lawrence" class="badge aa">AA</span> </td>
                     <td> </td>
                     <td> </td>
                     <td> <span helper="Scarlett Johansson" data-bs-toggle="tooltip" data-bs-html="true" title="Student Assignment<br />Return Visit<br />Scarlett Johansson" class="badge sa">SA</span> </td>
