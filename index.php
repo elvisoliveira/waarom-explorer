@@ -30,7 +30,7 @@ function add($name, $date, $assignment, $class = null, $helper = null) {
 function get_second($string, $date) {
     $string = explode('|', $string);
     if(count($string) > 1) {
-        add($string[0], $date, 'R', $string[1]);
+        add($string[0], $date, 'S', '⬇', $string[1]);
         return $string[1];
     } else {
         return $string[0];
@@ -119,10 +119,15 @@ foreach(glob('./data/*.{json}', GLOB_BRACE) as $file) {
                         <label class="form-check-label" for="<?php print $label; ?>"><?php print $data['label']; ?> (<?php print $label; ?>)</label>
                     </div>
                     <?php endforeach; ?>
+                    <hr />
+                    <div class="form-outline">
+                        <label class="form-label">Assignment threshold</label>
+                        <input type="number" class="form-control" value="10" id="threshold" />
+                    </div>
                 </div>
                 <div class="modal-footer">
-                    <button type="button" class="btn btn-secondary" id="none">None</button>
-                    <button type="button" class="btn btn-primary" id="all">All</button>
+                    <button type="button" class="btn btn-secondary" id="none"><i class="fa fa-ban" aria-hidden="true"></i> None</button>
+                    <button type="button" class="btn btn-primary" id="all"><i class="fa fa-check-square-o" aria-hidden="true"></i> All</button>
                 </div>
             </div>
         </div>
@@ -131,11 +136,11 @@ foreach(glob('./data/*.{json}', GLOB_BRACE) as $file) {
         <table class="table table-striped-columns table-hover m-0">
             <thead>
                 <tr>
-                    <th scope="col"></th>
+                    <th scope="col"><i class="fa fa-sort" aria-hidden="true" style="color: white;"></i></th>
                     <?php foreach($dates as $date): ?>
                     <th scope="col"><?php print $date; ?></th>
                     <?php endforeach; ?>
-                    <th scope="col" data-bs-toggle="tooltip" title="Total of meetings without assingment">#</th>
+                    <th scope="col" data-bs-toggle="tooltip" title="Total of meetings without assingment"><i class="fa fa-sort" aria-hidden="true"></i></th>
                 </tr>
             </thead>
             <tbody>
@@ -154,14 +159,21 @@ foreach(glob('./data/*.{json}', GLOB_BRACE) as $file) {
                 <?php endforeach; endif; ?>
                 </td>
                 <?php endforeach; ?>
-                <td>#</td>
+                <td><i class="fa fa-hashtag" aria-hidden="true"></i></td>
             </tr>
             <?php endforeach; ?>
             </tbody>
+            <tfoot>
+                <tr>
+                    <th><i class="fa fa-asterisk" aria-hidden="true"></i></th>
+                    <td colspan="<?php print count($dates); ?>" style="text-align: center">No data</td>
+                    <td><i class="fa fa-hashtag" aria-hidden="true"></i></td>
+                </tr>
+            </tfoot>
         </table>
     </div>
-    <button type="button" class="btn btn-primary btn-sm" data-bs-toggle="modal" data-bs-target="#filters" id="draggable">Filters</button>
-    <?php foreach(['draggable', 'filter', 'scroll', 'table', 'tooltip'] as $file): ?>
+    <button type="button" class="btn btn-primary btn-sm" data-bs-toggle="modal" data-bs-target="#filters" id="draggable"><i class="fa fa-arrows" aria-hidden="true"></i> Filters</button>
+    <?php foreach(['draggable', 'scroll', 'table', 'tooltip', 'filter'] as $file): ?>
         <script src="scripts/<?php print $file ?>.js"></script>
     <?php endforeach; ?>
 </body>

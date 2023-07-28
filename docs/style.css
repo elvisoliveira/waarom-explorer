@@ -4,10 +4,10 @@ body {
 th, td {
     white-space: nowrap;
 }
-tbody th, thead th {
+tbody th, thead th, tfoot th {
     position: sticky;
 }
-tbody th {
+tbody th, tfoot th {
     left: 0;
     box-shadow: 0px 10px 15px -3px rgba(0,0,0,0.1) !important;
 }
@@ -39,7 +39,7 @@ body > button {
 span.badge {
     color: #000;
 }
-th i {
+tbody i {
     margin-right: 5px;
 }
 #red {

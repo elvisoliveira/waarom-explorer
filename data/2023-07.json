@@ -2,45 +2,6 @@
     "congregation": "Congregation XYZ",
     "time": "19:15",
     "meetings": [{
-            "date": "27 June",
-            "theme": "ESDRAS 1-3",
-            "chairman": "Will Smith",
-            "opening_song": 75,
-            "middle_song": 58,
-            "closing_song": 132,
-            "closing_prayer": "Leonardo DiCaprio",
-            "spiritual_gems": "Denzel Washington",
-            "opening_talk": {
-                "speaker": "Dwayne Johnson",
-                "theme": "“Deixe que Jeová use você”"
-            },
-            "bible_reading": {
-                "reader": "Chris Hemsworth",
-                "assignment": "Esd. 2:58-70"
-            },
-            "initial_call": {
-                "student": "Anne Hathaway|Nicole Kidman",
-                "assistant": "Nicole Kidman|Jennifer Aniston"
-            },
-            "return_visit": {
-                "student": "Jessica Alba",
-                "assistant": "Viola Davis"
-            },
-            "bible_study": {
-                "student": "Julia Roberts",
-                "assistant": "Julianne Moore"
-            },
-            "congregation_bible_study": {
-                "conductor": "Christian Bale",
-                "reader": "Tom Cruise"
-            },
-            "living_as_christians": [{
-                    "time": 15,
-                    "speaker": "Will Smith",
-                    "theme": "“Tenha alegria ao iniciar conversas”"
-                }
-            ]
-        }, {
             "date": "4 July",
             "theme": "ESDRAS 4-6",
             "chairman": "Tom Hanks",
@@ -93,7 +54,7 @@
                 "theme": "“O modo de agir de Esdras deu honra a Jeová”"
             },
             "bible_reading": {
-                "reader": "George Clooney",
+                "reader": "George Clooney|Johnny Depp",
                 "assignment": "Esdras 8:21-36"
             },
             "initial_call": {
