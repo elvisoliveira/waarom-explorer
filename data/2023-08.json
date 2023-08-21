@@ -2,7 +2,7 @@
     "congregation": "Congregation XYZ",
     "time": "19:15",
     "meetings": [{
-            "message": "N„o h· reuni„o devido ao <p>Congresso regional de 2023</p> Seja Paciente"
+            "message": "N√£o h√° reuni√£o devido ao <p>Congresso regional de 2023</p> Seja Paciente"
         }, {
             "date": "8 August",
             "theme": "NEEMIAS 5-7",
@@ -11,7 +11,7 @@
             "opening_song": 17,
             "opening_talk": {
                 "speaker": "Christian Bale",
-                "theme": "ìNeemias queria servir, e n„o ser servidoî"
+                "theme": "‚ÄúNeemias queria servir, e n√£o ser servido‚Äù"
             },
             "bible_reading": {
                 "reader": "Hugh Jackman",
@@ -29,7 +29,7 @@
             },
             "middle_song": 90,
             "living_as_christians": [{
-                    "theme": "Boletim do Corpo Governante (2023) - n.∫ 5",
+                    "theme": "Boletim do Corpo Governante (2023) - n.¬∫ 5",
                     "time": 15,
                     "speaker": "Tom Hanks"
                 }
@@ -42,7 +42,7 @@
             "closing_prayer": "Tom Cruise",
             "talk": {
                 "theme": "Evangelizadores bem-sucedidos ajudam uns aos outros.",
-                "student": "Brad Pitt"
+                "student": "Brad Pitt|Johnny Depp"
             }
         }, {
             "date": "15 August",
@@ -52,7 +52,7 @@
             "opening_song": 110,
             "opening_talk": {
                 "speaker": "Denzel Washington",
-                "theme": "ìA alegria que vem de Jeov· È a fortaleza de vocÍsî"
+                "theme": "‚ÄúA alegria que vem de Jeov√° √© a fortaleza de voc√™s‚Äù"
             },
             "bible_reading": {
                 "reader": "George Clooney",
@@ -70,7 +70,7 @@
             },
             "middle_song": 132,
             "living_as_christians": [{
-                    "theme": "ìVocÍ pode ajudar sua famÌlia a ter mais alegriaî",
+                    "theme": "‚ÄúVoc√™ pode ajudar sua fam√≠lia a ter mais alegria‚Äù",
                     "time": 15,
                     "speaker": "Christian Bale"
                 }
@@ -82,7 +82,7 @@
             "closing_song": 123,
             "closing_prayer": "Denzel Washington",
             "bible_study": {
-                "label": "Estudo bÌblico",
+                "label": "Estudo b√≠blico",
                 "student": "Julianne Moore",
                 "assistant": "PenÈlope Cruz"
             }
@@ -94,7 +94,7 @@
             "opening_song": 37,
             "opening_talk": {
                 "speaker": "Matt Damon",
-                "theme": "ìEles fizeram sacrifÌcios para servir a Jeov·î"
+                "theme": "‚ÄúEles fizeram sacrif√≠cios para servir a Jeov√°‚Äù"
             },
             "bible_reading": {
                 "reader": "Harrison Ford",
@@ -107,16 +107,16 @@
             },
             "return_visit": {
                 "label": "Revisita",
-                "student": "Jessica Chastain",
+                "student": "Jessica Chastain|Amy Adams",
                 "assistant": "Scarlett Johansson"
             },
             "middle_song": 81,
             "living_as_christians": [{
-                    "theme": "ìQuais s„o os seus alvos para o novo ano de serviÁo?î",
+                    "theme": "‚ÄúQuais s√£o os seus alvos para o novo ano de servi√ßo?‚Äù",
                     "time": 10,
                     "speaker": "Will Smith"
                 }, {
-                    "theme": "ìCampanha especial em setembro para divulgar o Reino de Deus!î",
+                    "theme": "‚ÄúCampanha especial em setembro para divulgar o Reino de Deus!‚Äù",
                     "time": 5,
                     "speaker": "Tom Hanks"
                 }
@@ -128,8 +128,8 @@
             "closing_song": 92,
             "closing_prayer": "Johnny Depp",
             "talk": {
-                "theme": "SacrifÌcios que agradam a Deus nos nossos dias.",
-                "student": "Johnny Depp"
+                "theme": "Sacrif√≠cios que agradam a Deus nos nossos dias.",
+                "student": "Johnny Depp|Brad Pitt"
             }
         },
         {
@@ -140,7 +140,7 @@
             "opening_song": 34,
             "opening_talk": {
                 "speaker": "Dwayne Johnson",
-                "theme": "ìSeja leal a Jeov· ao escolher seus amigosî"
+                "theme": "‚ÄúSeja leal a Jeov√° ao escolher seus amigos‚Äù"
             },
             "bible_reading": {
                 "reader": "Chris Hemsworth",
@@ -162,7 +162,7 @@
                     "time": 5,
                     "speaker": "Matt Damon"
                 }, {
-                    "theme": "ìImite o amor leal de Jeov·î",
+                    "theme": "‚ÄúImite o amor leal de Jeov√°‚Äù",
                     "time": 10,
                     "speaker": "Denzel Washington"
                 }
@@ -173,7 +173,7 @@
             "closing_song": 84,
             "closing_prayer": "Brad Pitt",
             "bible_study": {
-                "label": "Estudo bÌblico",
+                "label": "Estudo b√≠blico",
                 "student": "Reese Witherspoon",
                 "assistant": "Viola Davis"
             }

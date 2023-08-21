@@ -12,24 +12,24 @@
             "spiritual_gems": "Will Smith",
             "opening_talk": {
                 "speaker": "Denzel Washington",
-                "theme": "“Não interfiram nas obras dessa casa”"
+                "theme": "â€œNÃ£o interfiram nas obras dessa casaâ€"
             },
             "bible_reading": {
                 "reader": "Harrison Ford",
                 "assignment": "Esdras 4:8-24"
             },
             "initial_call": {
-                "label": "Vídeo da primeira conversa"
+                "label": "VÃ­deo da primeira conversa"
             },
             "return_visit": {
                 "student": "Emma Stone",
                 "assistant": "Michelle Pfeiffer",
-                "label": "Primeira conversa — designação 1"
+                "label": "Primeira conversa â€” designaÃ§Ã£o 1"
             },
             "bible_study": {
                 "student": "Meryl Streep",
                 "assistant": "Penélope Cruz|Amy Adams",
-                "label": "Primeira conversa — designação 2"
+                "label": "Primeira conversa â€” designaÃ§Ã£o 2"
             },
             "congregation_bible_study": {
                 "conductor": "Matt Damon"
@@ -37,7 +37,7 @@
             "living_as_christians": [{
                     "time": 15,
                     "speaker": "Tom Hanks",
-                    "theme": "“Nós ‘defendemos e estabelecemos legalmente as boas novas’”"
+                    "theme": "â€œNÃ³s â€˜defendemos e estabelecemos legalmente as boas novasâ€™â€"
                 }
             ]
         }, {
@@ -51,24 +51,24 @@
             "spiritual_gems": "Leonardo DiCaprio",
             "opening_talk": {
                 "speaker": "Dwayne Johnson",
-                "theme": "“O modo de agir de Esdras deu honra a Jeová”"
+                "theme": "â€œO modo de agir de Esdras deu honra a JeovÃ¡â€"
             },
             "bible_reading": {
                 "reader": "George Clooney|Johnny Depp",
                 "assignment": "Esdras 8:21-36"
             },
             "initial_call": {
-                "label": "Vídeo da revisita"
+                "label": "VÃ­deo da revisita"
             },
             "return_visit": {
                 "student": "Saoirse Ronan|Jennifer Aniston",
                 "assistant": "Jennifer Aniston|Viola Davis",
-                "label": "Revisita — designação 1"
+                "label": "Revisita â€” designaÃ§Ã£o 1"
             },
             "bible_study": {
                 "student": "Scarlett Johansson",
                 "assistant": "Halle Berry",
-                "label": "Revisita — designação 2"
+                "label": "Revisita â€” designaÃ§Ã£o 2"
             },
             "congregation_bible_study": {
                 "conductor": "Will Smith",
@@ -91,7 +91,7 @@
             "spiritual_gems": "Christian Bale",
             "opening_talk": {
                 "speaker": "Matt Damon",
-                "theme": "“A desobediência causa sofrimento”"
+                "theme": "â€œA desobediÃªncia causa sofrimentoâ€"
             },
             "bible_reading": {
                 "reader": "Chris Hemsworth",
@@ -115,7 +115,7 @@
             "living_as_christians": [{
                     "time": 15,
                     "speaker": "Leonardo DiCaprio",
-                    "theme": "A Obediência nos Protege (2 Tes. 1:8)"
+                    "theme": "A ObediÃªncia nos Protege (2 Tes. 1:8)"
                 }
             ]
         }, {
@@ -129,7 +129,7 @@
             "spiritual_gems": "Matt Damon",
             "opening_talk": {
                 "speaker": "Tom Hanks",
-                "theme": "“Orei imediatamente”"
+                "theme": "â€œOrei imediatamenteâ€"
             },
             "bible_reading": {
                 "reader": "Al Pacino",
@@ -154,11 +154,11 @@
             "living_as_christians": [{
                     "time": 15,
                     "speaker": "Will Smith",
-                    "theme": "Torne-se Amigo de Jeová — Será Que Jeová Responde Nossas Orações?"
+                    "theme": "Torne-se Amigo de JeovÃ¡ â€” SerÃ¡ Que JeovÃ¡ Responde Nossas OraÃ§Ãµes?"
                 }
             ]
         }, {
-            "message": "Não há reunião devido ao <p>Congresso regional de 2023</p> Seja Paciente"
+            "message": "NÃ£o hÃ¡ reuniÃ£o devido ao <p>Congresso regional de 2023</p> Seja Paciente"
         }
     ]
 }

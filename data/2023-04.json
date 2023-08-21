@@ -3,7 +3,7 @@
     "time": "19:15",
     "meetings": [{
             "date": "11 April",
-            "theme": "2 CR‘NICAS 8-9",
+            "theme": "2 CR√îNICAS 8-9",
             "chairman": "Christian Bale",
             "opening_song": 88,
             "middle_song": 98,
@@ -12,14 +12,14 @@
             "spiritual_gems": "Leonardo DiCaprio",
             "opening_talk": {
                 "speaker": "Dwayne Johnson",
-                "theme": "Ela dava valor ‡ sabedoria"
+                "theme": "Ela dava valor √† sabedoria"
             },
             "bible_reading": {
                 "reader": "Hugh Jackman",
-                "assignment": "2 CrÙnicas 8:1-16"
+                "assignment": "2 Cr√¥nicas 8:1-16"
             },
             "initial_call": {
-                "label": "VÌdeo da primeira conversa"
+                "label": "V√≠deo da primeira conversa"
             },
             "return_visit": {
                 "student": "Amy Adams",
@@ -32,17 +32,17 @@
             },
             "service_talk": {
                 "speaker": "Morgan Freeman",
-                "theme": "Discurso de serviÁo: PermaneÁam ìbem estabelecidos na verdadeî!"
+                "theme": "Discurso de servi√ßo: Permane√ßam ‚Äúbem estabelecidos na verdade‚Äù!"
             },
             "living_as_christians": [{
                     "time": 15,
                     "speaker": "Christian Bale",
-                    "theme": "Boletim do Corpo Governante (2023) ó n.∫ 2"
+                    "theme": "Boletim do Corpo Governante (2023) ‚Äî n.¬∫ 2"
                 }
             ]
         }, {
             "date": "18 April",
-            "theme": "2 CR‘NICAS 10-12",
+            "theme": "2 CR√îNICAS 10-12",
             "chairman": "Matt Damon",
             "opening_song": 103,
             "middle_song": 79,
@@ -51,11 +51,11 @@
             "spiritual_gems": "Dwayne Johnson",
             "opening_talk": {
                 "speaker": "Denzel Washington",
-                "theme": "Conselhos s·bios podem ajudar vocÍ"
+                "theme": "Conselhos s√°bios podem ajudar voc√™"
             },
             "bible_reading": {
                 "reader": "Robert Downey Jr.",
-                "assignment": "2 CrÙnicas 10:1-15"
+                "assignment": "2 Cr√¥nicas 10:1-15"
             },
             "initial_call": {
                 "student": "Julia Roberts",
@@ -67,7 +67,7 @@
             },
             "talk": {
                 "student": "Tom Cruise",
-                "theme": "Treine seu estudante da BÌblia quando ele pedir um conselho"
+                "theme": "Treine seu estudante da B√≠blia quando ele pedir um conselho"
             },
             "congregation_bible_study": {
                 "conductor": "Will Smith",
@@ -76,7 +76,7 @@
             "living_as_christians": [{
                     "time": 5,
                     "speaker": "Tom Hanks",
-                    "theme": "Como usar os vÌdeos que falam sobre o estudo da BÌblia?"
+                    "theme": "Como usar os v√≠deos que falam sobre o estudo da B√≠blia?"
                 }, {
                     "time": 10,
                     "speaker": "Matt Damon",
@@ -85,7 +85,7 @@
             ]
         }, {
             "date": "25 April",
-            "theme": "2 CR‘NICAS 13-16",
+            "theme": "2 CR√îNICAS 13-16",
             "chairman": "Tom Hanks",
             "opening_song": 3,
             "middle_song": 94,
@@ -94,11 +94,11 @@
             "spiritual_gems": "Christian Bale",
             "opening_talk": {
                 "speaker": "Will Smith",
-                "theme": "Quando devemos confiar em Jeov·?"
+                "theme": "Quando devemos confiar em Jeov√°?"
             },
             "bible_reading": {
                 "reader": "Chris Hemsworth",
-                "assignment": "2 CrÙnicas 14:1-15"
+                "assignment": "2 Cr√¥nicas 14:1-15"
             },
             "initial_call": {
                 "student": "Viola Davis",
@@ -119,11 +119,11 @@
             "living_as_christians": [{
                     "time": 15,
                     "speaker": "Tom Hanks",
-                    "theme": "Decisıes que mostram confianÁa em Jeov·"
+                    "theme": "Decis√µes que mostram confian√ßa em Jeov√°"
                 }
             ]
         }, {
-            "message": "N„o h· reuni„o por causa da <p>Assembleia de Circuito</p> Amigos da Paz"
+            "message": "N√£o h√° reuni√£o por causa da <p>Assembleia de Circuito</p> Amigos da Paz"
         }
     ]
 }

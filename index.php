@@ -46,7 +46,7 @@ function null_filter($array) {
 $dates = [];
 foreach(glob('./data/*.{json}', GLOB_BRACE) as $file) {
     $contents = file_get_contents($file, true);
-    $json = json_decode(utf8_encode($contents));
+    $json = json_decode($contents);
     foreach($json->meetings as $board) {
         if(!property_exists($board, 'message')) {
             $date = strtoupper($board->date);
