@@ -1,0 +1,205 @@
+{
+   "congregation":"Congregation XYZ",
+   "time":"19:15",
+   "meetings":[
+      {
+         "date":"5 December",
+         "theme":"JÓ 22-24",
+         "chairman":"Christian Bale",
+         "spiritual_gems":"Tom Hanks",
+         "opening_song":49,
+         "opening_talk":{
+            "speaker":"Will Smith",
+            "theme":"“‘Pode um homem ser útil para Deus?’”"
+         },
+         "bible_reading":{
+            "reader":"Chris Hemsworth",
+            "assignment":"Jó 22:1-22"
+         },
+         "initial_call":{
+            "label":"Primeira conversa",
+            "advice":"th 11",
+            "student":"Jessica Chastain",
+            "assistant":"Helen Mirren"
+         },
+         "return_visit":{
+            "label":"Revisita",
+            "advice":"th 2",
+            "student":"Emma Stone",
+            "assistant":"Margot Robbie"
+         },
+         "middle_song":134,
+         "living_as_christians":[
+            {
+               "theme":"“Pais, ensinem seus filhos a alegrar o coração de Deus”",
+               "time":10,
+               "speaker":"Dwayne Johnson"
+            },
+            {
+               "theme":"Necessidades locais",
+               "time":5,
+               "speaker":"Christian Bale"
+            }
+         ],
+         "congregation_bible_study":{
+            "conductor":"Matt Damon",
+            "reader":"Tom Cruise"
+         },
+         "closing_song":25,
+         "closing_prayer":"Brad Pitt",
+         "talk":{
+            "theme":"Uma atitude positiva nos ajuda a continuar úteis para Jeová.",
+            "student":"Marlon Brando"
+         }
+      },
+      {
+         "date":"12 December",
+         "theme":"JÓ 25-27",
+         "chairman":"Tom Hanks",
+         "spiritual_gems":"Will Smith",
+         "opening_song":34,
+         "opening_talk":{
+            "speaker":"Matt Damon",
+            "theme":"“A integridade não exige perfeição”"
+         },
+         "bible_reading":{
+            "reader":"Al Pacino",
+            "assignment":"Jó 25:1–26:14"
+         },
+         "initial_call":{
+            "label":"Primeira conversa",
+            "advice":"th 1",
+            "student":"Julianne Moore",
+            "assistant":"Halle Berry"
+         },
+         "return_visit":{
+            "label":"Revisita",
+            "advice":"th 17",
+            "student":"Julia Roberts",
+            "assistant":"Scarlett Johansson"
+         },
+         "middle_song":45,
+         "living_as_christians":[
+            {
+               "theme":"“A integridade e os nossos pensamentos”",
+               "time":5,
+               "speaker":"Tom Hanks"
+            },
+            {
+               "theme":"Realizações da organização",
+               "time":10,
+               "speaker":"Tom Hanks"
+            }
+         ],
+         "congregation_bible_study":{
+            "conductor":"Christian Bale",
+            "reader":"Dwayne Johnson"
+         },
+         "closing_song":57,
+         "closing_prayer":"Leonardo DiCaprio",
+         "bible_study":{
+            "label":"Estudo bíblico",
+            "advice":"th 15",
+            "student":"Emma Watson",
+            "assistant":"Jennifer Aniston"
+         }
+      },
+      {
+         "date":"19 December",
+         "theme":"JÓ 28-29",
+         "chairman":"Will Smith",
+         "spiritual_gems":"Christian Bale",
+         "opening_song":39,
+         "opening_talk":{
+            "speaker":"Denzel Washington",
+            "theme":"“Você tem uma boa reputação assim como Jó?”"
+         },
+         "bible_reading":{
+            "reader":"George Clooney",
+            "assignment":"Jó 28:1-28"
+         },
+         "initial_call":{
+            "label":"Primeira conversa",
+            "advice":"th 3",
+            "student":"Jessica Alba",
+            "assistant":"Jennifer Lawrence"
+         },
+         "return_visit":{
+            "label":"Revisita",
+            "advice":"th 17",
+            "student":"Meryl Streep",
+            "assistant":"Viola Davis"
+         },
+         "middle_song":121,
+         "living_as_christians":[
+            {
+               "theme":"“Como posso contribuir para nossa boa reputação?”",
+               "time":15,
+               "speaker":"Will Smith"
+            }
+         ],
+         "congregation_bible_study":{
+            "conductor":"Tom Hanks",
+            "reader":"Johnny Depp"
+         },
+         "closing_song":50,
+         "closing_prayer":"Dwayne Johnson",
+         "bible_study":{
+            "label":"Estudo bíblico",
+            "advice":"th 6",
+            "student":"Keira Knightley",
+            "assistant":"Elizabeth Olsen"
+         }
+      },
+      {
+         "date":"26 December",
+         "theme":"JÓ 30-31",
+         "chairman":"Matt Damon",
+         "spiritual_gems":"Dwayne Johnson",
+         "opening_song":28,
+         "opening_talk":{
+            "speaker":"Tom Hanks",
+            "theme":"“Como Jó manteve a castidade”"
+         },
+         "bible_reading":{
+            "reader":"Hugh Jackman",
+            "assignment":"Jó 31:15-40"
+         },
+         "initial_call":{
+            "label":"Primeira conversa",
+            "advice":"th 1",
+            "student":"Michelle Pfeiffer",
+            "assistant":"Nicole Kidman"
+         },
+         "return_visit":{
+            "label":"Revisita",
+            "advice":"th 11",
+            "student":"Robert Downey Jr.",
+            "assistant":"Brad Pitt"
+         },
+         "middle_song":36,
+         "living_as_christians":[
+            {
+               "theme":"“Por que a pornografia é ruim?”",
+               "time":7,
+               "speaker":"Matt Damon"
+            },
+            {
+               "theme":"Necessidades locais",
+               "time":8,
+               "speaker":"Christian Bale"
+            }
+         ],
+         "congregation_bible_study":{
+            "conductor":"Will Smith",
+            "reader":"Denzel Washington"
+         },
+         "closing_song":74,
+         "closing_prayer":"Tom Cruise",
+         "talk":{
+            "theme":"Como eu posso explicar o que a Bíblia diz sobre o homossexualismo?",
+            "student":"Tom Cruise"
+         }
+      }
+   ]
+}

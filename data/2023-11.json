@@ -1,0 +1,143 @@
+{
+	"congregation": "Congregation XYZ",
+	"time": "19:15",
+	"meetings": [
+		{
+			"date": "7 November",
+			"theme": "JÓ 13-14",
+			"chairman": "Tom Hanks",
+			"spiritual_gems": "Matt Damon",
+			"opening_song": 151,
+			"opening_talk": {
+				"speaker": "Leonardo DiCaprio",
+				"theme": "“Quando um homem morre, pode ele viver novamente?”"
+			},
+			"bible_reading": {
+				"reader": "George Clooney",
+				"assignment": "Jó 13:1-28"
+			},
+			"initial_call": {
+				"label": "Vídeo da primeira conversa"
+			},
+			"return_visit": {
+				"label": "Primeira conversa",
+				"advice": "th 2",
+				"student": "Nicole Kidman",
+				"assistant": "Jessica Alba"
+			},
+			"middle_song": 127,
+			"living_as_christians": [{
+					"theme": "“‘Cada um de vocês deve pôr algo à parte’”",
+					"time": 15,
+					"speaker": "Tom Hanks"
+				}
+			],
+			"congregation_bible_study": {
+				"conductor": "Christian Bale",
+				"reader": "Denzel Washington"
+			},
+			"closing_song": 76,
+			"closing_prayer": "Tom Cruise",
+			"bible_study": {
+				"label": "Estudo bíblico",
+				"advice": "th 19",
+				"student": "Reese Witherspoon",
+				"assistant": "Jennifer Lawrence|Meryl Streep"
+			}
+		},
+		{
+			"date": "14 November",
+			"theme": "JÓ 15-17",
+			"chairman": "Will Smith",
+			"spiritual_gems": "Denzel Washington",
+			"opening_song": 90,
+			"opening_talk": {
+				"speaker": "Christian Bale",
+				"theme": "“Não imite Elifaz quando for consolar alguém”"
+			},
+			"bible_reading": {
+				"reader": "Robert Downey Jr.",
+				"assignment": "Jó 17:1-16"
+			},
+			"initial_call": {
+				"label": "Vídeo da revisita"
+			},
+			"return_visit": {
+				"label": "Revisita",
+				"advice": "th 11",
+				"student": "Saoirse Ronan",
+				"assistant": "Elizabeth Olsen"
+			},
+			"middle_song": 96,
+			"living_as_christians": [{
+					"theme": "Necessidades locais",
+					"time": 15,
+					"speaker": "Will Smith"
+				}
+			],
+			"congregation_bible_study": {
+				"conductor": "Matt Damon",
+				"reader": "Brad Pitt"
+			},
+			"closing_song": 118,
+			"closing_prayer": "Denzel Washington",
+			"bible_study": {
+				"label": "Estudo bíblico",
+				"advice": "th 8",
+				"student": "Tom Cruise",
+				"assistant": "Hugh Jackman"
+			}
+		},
+		{
+			"date": "21 November",
+			"theme": "JÓ 18-19",
+			"chairman": "Matt Damon",
+			"spiritual_gems": "Leonardo DiCaprio",
+			"opening_song": 44,
+			"opening_talk": {
+				"speaker": "Dwayne Johnson",
+				"theme": "“Nunca abandone seus irmãos”"
+			},
+			"bible_reading": {
+				"reader": "Harrison Ford",
+				"assignment": "Jó 18:1-21"
+			},
+			"initial_call": {
+				"label": "Primeira conversa",
+				"advice": "th 12",
+				"student": "Amy Adams",
+				"assistant": "Anne Hathaway"
+			},
+			"return_visit": {
+				"label": "Revisita",
+				"advice": "th 3",
+				"student": "Michelle Pfeiffer",
+				"assistant": "Keira Knightley"
+			},
+			"middle_song": 90,
+			"living_as_christians": [{
+					"theme": "Torne-se Amigo de Jeová — Ajude os Outros",
+					"time": 5,
+					"speaker": "Matt Damon"
+				}, {
+					"theme": "“Um programa de pastoreio para consolar os que servem em Betel”",
+					"time": 10,
+					"speaker": "Denzel Washington"
+				}
+			],
+			"congregation_bible_study": {
+				"conductor": "Will Smith",
+				"reader": "Robert Downey Jr."
+			},
+			"closing_song": 63,
+			"closing_prayer": "Johnny Depp",
+			"talk": {
+				"theme": "Incentive seu estudante a fazer amigos na congregação.",
+				"student": "Johnny Depp"
+			}
+		},
+		{
+			"message": "Não há reunião devido a <p>Assembleia de Circuito de 2023</p> ‘Espere Ansiosamente por Jeová’!"
+		}
+	]
+}

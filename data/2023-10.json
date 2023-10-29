@@ -1,0 +1,237 @@
+{
+	"congregation": "Congregation XYZ",
+	"time": "19:15",
+	"meetings": [
+		{
+			"date": "3 October",
+			"theme": "JÓ 1-3",
+			"chairman": "Christian Bale",
+			"spiritual_gems": "Leonardo DiCaprio",
+			"opening_song": 141,
+			"opening_talk": {
+				"speaker": "Matt Damon",
+				"theme": "“Continue a mostrar o quanto você ama a Jeová”"
+			},
+			"bible_reading": {
+				"reader": "Marlon Brando",
+				"assignment": "Jó 3:1-26"
+			},
+			"initial_call": {
+				"label": "Primeira conversa",
+				"advice": "th 9",
+				"student": "Jennifer Lawrence",
+				"assistant": "Elizabeth Olsen"
+			},
+			"return_visit": {
+				"label": "Revisita",
+				"advice": "th 20",
+				"student": "Saoirse Ronan",
+				"assistant": "Nicole Kidman"
+			},
+			"middle_song": 21,
+			"living_as_christians": [{
+				"theme": "Eu Achava Que Estava Fazendo Tudo Certo",
+				"time": 10,
+				"speaker": "Christian Bale"
+			}, {
+				"theme": "“Use a página inicial do JW.ORG em seu ministério”",
+				"time": 5,
+				"speaker": "Dwayne Johnson"
+			}],
+			"congregation_bible_study": {
+				"conductor": "Tom Hanks"
+			},
+			"closing_song": 129,
+			"closing_prayer": "Denzel Washington",
+			"talk": {
+				"theme": "Seja um bom instrutor como Tiago: seja realista e humilde.",
+				"student": "Robert Downey Jr."
+			}
+		},
+		{
+			"date": "10 October",
+			"theme": "JÓ 4-5",
+			"chairman": "Will Smith",
+			"spiritual_gems": "Matt Damon",
+			"opening_song": 121,
+			"opening_talk": {
+				"speaker": "Dwayne Johnson",
+				"theme": "“Cuidado com a desinformação”"
+			},
+			"bible_reading": {
+				"reader": "Harrison Ford",
+				"assignment": "Jó 5:1-27"
+			},
+			"initial_call": {
+				"label": "Primeira conversa",
+				"advice": "th 4",
+				"student": "Amy Adams",
+				"assistant": "Helen Mirren"
+			},
+			"return_visit": {
+				"label": "Revisita",
+				"advice": "th 15",
+				"student": "Reese Witherspoon",
+				"assistant": "Anne Hathaway"
+			},
+			"middle_song": 78,
+			"living_as_christians": [{
+					"theme": "Necessidades locais",
+					"time": 15,
+					"speaker": "Will Smith"
+				}
+			],
+			"congregation_bible_study": {
+				"conductor": "Christian Bale",
+				"reader": "Denzel Washington"
+			},
+			"closing_song": 38,
+			"closing_prayer": "Johnny Depp",
+			"bible_study": {
+				"label": "Estudo bíblico",
+				"advice": "th 16",
+				"student": "Emma Stone",
+				"assistant": "Jessica Alba"
+			}
+		},
+		{
+			"date": "17 October",
+			"theme": "JÓ 6-7",
+			"chairman": "Matt Damon",
+			"spiritual_gems": "Will Smith",
+			"opening_song": 33,
+			"opening_talk": {
+				"speaker": "Christian Bale",
+				"theme": "“Quando a vida parece insuportável”"
+			},
+			"bible_reading": {
+				"reader": "Chris Hemsworth",
+				"assignment": "Jó 6:1-21"
+			},
+			"initial_call": {
+				"label": "Primeira conversa",
+				"advice": "th 7",
+				"student": "Keira Knightley|Meryl Streep",
+				"assistant": "Meryl Streep|Emma Stone"
+			},
+			"return_visit": {
+				"label": "Revisita",
+				"advice": "th 11",
+				"student": "Julianne Moore",
+				"assistant": "Michelle Pfeiffer"
+			},
+			"middle_song": 144,
+			"living_as_christians": [{
+					"theme": "“Jeová salva os que têm espírito esmagado”",
+					"time": 15,
+					"speaker": "Matt Damon"
+				}
+			],
+			"congregation_bible_study": {
+				"conductor": "Tom Hanks"
+			},
+			"closing_song": 143,
+			"closing_prayer": "Brad Pitt",
+			"talk": {
+				"theme": "Seja um bom instrutor como Tiago: use ilustrações que toquem o coração.",
+				"student": "Brad Pitt"
+			}
+		},
+		{
+			"date": "24 October",
+			"theme": "JÓ 8-10",
+			"chairman": "Tom Hanks",
+			"spiritual_gems": "Christian Bale",
+			"opening_song": 107,
+			"opening_talk": {
+				"speaker": "Denzel Washington",
+				"theme": "“O amor leal de Deus nos protege das mentiras de Satanás”"
+			},
+			"bible_reading": {
+				"reader": "Al Pacino",
+				"assignment": "Jó 9:20-35"
+			},
+			"initial_call": {
+				"label": "Primeira conversa",
+				"advice": "th 17",
+				"student": "Jennifer Aniston",
+				"assistant": "Halle Berry"
+			},
+			"return_visit": {
+				"label": "Revisita",
+				"advice": "th 3",
+				"student": "Scarlett Johansson",
+				"assistant": "Margot Robbie"
+			},
+			"middle_song": 109,
+			"living_as_christians": [{
+					"theme": "“Ajude pessoas não religiosas a conhecer o Criador”",
+					"time": 10,
+					"speaker": "Dwayne Johnson"
+				}, {
+					"theme": "Necessidades locais",
+					"time": 5,
+					"speaker": "Tom Hanks"
+				}
+			],
+			"congregation_bible_study": {
+				"conductor": "Matt Damon",
+				"reader": "Tom Cruise"
+			},
+			"closing_song": 64,
+			"closing_prayer": "Leonardo DiCaprio",
+			"bible_study": {
+				"label": "Estudo bíblico",
+				"advice": "th 14",
+				"student": "Johnny Depp",
+				"assistant": "Harrison Ford"
+			}
+		},
+		{
+			"date": "31 October",
+			"theme": "JÓ 11-12",
+			"chairman": "Christian Bale",
+			"spiritual_gems": "Dwayne Johnson",
+			"opening_song": 87,
+			"opening_talk": {
+				"speaker": "Tom Hanks",
+				"theme": "“Três modos de ter sabedoria e se beneficiar dela”"
+			},
+			"bible_reading": {
+				"reader": "Hugh Jackman",
+				"assignment": "Jó 12:1-25"
+			},
+			"initial_call": {
+				"label": "Primeira conversa",
+				"advice": "th 1",
+				"student": "Viola Davis",
+				"assistant": "Emma Watson"
+			},
+			"return_visit": {
+				"label": "Revisita",
+				"advice": "th 13",
+				"student": "Robert Downey Jr.",
+				"assistant": "Tom Cruise"
+			},
+			"middle_song": 135,
+			"living_as_christians": [{
+					"theme": "“Pais: ajudem seus filhos a ter a sabedoria que vem de Deus”",
+					"time": 15,
+					"speaker": "Christian Bale"
+				}
+			],
+			"congregation_bible_study": {
+				"conductor": "Will Smith",
+				"reader": "Johnny Depp"
+			},
+			"closing_song": 3,
+			"closing_prayer": "Dwayne Johnson",
+			"bible_study": {
+				"label": "Estudo bíblico",
+				"advice": "th 19",
+				"student": "Jessica Chastain",
+				"assistant": "Julia Roberts"
+			}
+		}
+	]
+}

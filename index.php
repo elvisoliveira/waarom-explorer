@@ -173,7 +173,7 @@ foreach(glob('./data/*.{json}', GLOB_BRACE) as $file) {
         </table>
     </div>
     <button type="button" class="btn btn-primary btn-sm" data-bs-toggle="modal" data-bs-target="#filters" id="draggable"><i class="fa fa-arrows" aria-hidden="true"></i> Filters</button>
-    <?php foreach(['draggable', 'scroll', 'table', 'tooltip', 'filter'] as $file): ?>
+    <?php foreach(['draggable', 'table', 'tooltip', 'filter', 'scroll'] as $file): ?>
         <script src="scripts/<?php print $file ?>.js"></script>
     <?php endforeach; ?>
 </body>

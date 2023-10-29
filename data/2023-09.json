@@ -48,7 +48,7 @@
         }, {
             "date": "12 September",
             "theme": "ESTER 3-5",
-            "chairman": "Christian Bale",
+            "chairman": "Will Smith",
             "spiritual_gems": "Dwayne Johnson",
             "opening_song": 85,
             "opening_talk": {
@@ -72,7 +72,7 @@
             "living_as_christians": [{
                     "theme": "Torne-se Amigo de Jeová — Ester Foi Corajosa",
                     "time": 5,
-                    "speaker": "Christian Bale"
+                    "speaker": "Will Smith"
                 }, {
                     "theme": "Necessidades locais",
                     "time": 10,
@@ -94,7 +94,7 @@
         }, {
             "date": "19 September",
             "theme": "ESTER 6-8",
-            "chairman": "Will Smith",
+            "chairman": "Matt Damon",
             "spiritual_gems": "Tom Hanks",
             "opening_song": 115,
             "opening_talk": {
@@ -108,7 +108,7 @@
             "initial_call": {
                 "label": "Primeira conversa",
                 "advice": "th 3",
-                "student": "Pen�lope Cruz",
+                "student": "Margot Robbie",
                 "assistant": "Halle Berry"
             },
             "return_visit": {
@@ -125,7 +125,7 @@
                 }
             ],
             "congregation_bible_study": {
-                "conductor": "Christian Bale",
+                "conductor": "Will Smith",
                 "reader": "Brad Pitt"
             },
             "closing_song": 124,
@@ -137,11 +137,11 @@
         }, {
             "date": "26 September",
             "theme": "ESTER 9-10",
-            "chairman": "Matt Damon",
+            "chairman": "Tom Hanks",
             "spiritual_gems": "Denzel Washington",
             "opening_song": 102,
             "opening_talk": {
-                "speaker": "Christian Bale",
+                "speaker": "Will Smith",
                 "theme": "“Ele usou sua autoridade para ajudar o povo de Deus”"
             },
             "bible_reading": {
@@ -164,11 +164,11 @@
             "living_as_christians": [{
                     "theme": "“Pastores que trabalham para o bem do povo de Jeová”",
                     "time": 15,
-                    "speaker": "Christian Bale"
+                    "speaker": "Tom Hanks"
                 }
             ],
             "congregation_bible_study": {
-                "conductor": "Tom Hanks",
+                "conductor": "Matt Damon",
                 "reader": "Dwayne Johnson"
             },
             "closing_song": 55,
