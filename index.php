@@ -69,7 +69,21 @@ foreach(glob('./data/*.{json}', GLOB_BRACE) as $file) {
                 }
             }
             foreach($board->living_as_christians as $living_as_christians) {
-                add($living_as_christians->speaker, $board->date, 'LAC');
+                add($living_as_christians->speaker, $board->date, 'DIS');
+            }
+            if(isset($board->apply_yourself_to_the_field_ministry)) {
+                foreach($board->apply_yourself_to_the_field_ministry as $apply) {
+                    if (isset($apply->speaker)) {
+                        add($apply->speaker, $board->date, 'DIS');
+                    }
+                    if (isset($apply->assigned) && !isset($apply->assistant)) {
+                        add($apply->assigned, $board->date, 'TK');
+                    }
+                    if (isset($apply->assigned) && isset($apply->assistant)) {
+                        add($apply->assigned, $board->date, 'SA', null, $apply->assistant);
+                        add($apply->assistant, $board->date, 'AA', null, $apply->assigned);
+                    }
+                }
             }
             foreach(['initial_call', 'return_visit', 'bible_study'] as $assignment) {
                 $student = $board->{$assignment}->student ?? null;

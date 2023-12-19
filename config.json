@@ -43,8 +43,8 @@
         "label": "Talk",
         "color": "CadetBlue"
     },
-    "LAC": {
-        "label": "Living as Christians",
+    "DIS": {
+        "label": "Discussion",
         "color": "RosyBrown"
     }
 }
